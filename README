@@ -1,0 +1,9 @@
+Yet Another RPG - A project to develop a simple, RPG-style turn-based battle system.
+Original code by Michael Carr.
+Originally programmed in TI-BASIC (TI-83/84 families).
+
+This is a simple project to port the original game code to a mainstream programming
+language on standard PCs, such as C or Python. Whether it remains confined to 
+just a single, one-on-one battle is a question for far down the line.
+
+Anyone is free to copy and modify the source code, or build derivatives from it. Have fun.
